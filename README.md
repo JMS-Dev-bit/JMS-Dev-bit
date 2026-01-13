@@ -5,9 +5,9 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-Soy un **Desarrollador de Software** enfocado en la creación de soluciones eficientes y escalables que generen un impacto cultural y social. 
+Soy un **Desarrollador de Software** enfocado en la creación de soluciones eficientes y escalables. 
 
-- 🔭 **Proyecto Principal:** Legado Culinario Ecuatoriano, una plataforma dedicada a la preservación y difusión de la identidad gastronómica del Ecuador.
+- 🔭 **Proyecto Principal:** 
 - 💬 **Hablemos sobre:** Arquitectura de software, desarrollo web y gatos. 🐱
 - ⚡ **Dato curioso:** Me apasiona la tecnología tanto como me gustan los gatos.
 
@@ -18,7 +18,7 @@ Basado en las necesidades técnicas de mis proyectos actuales:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,py,mysql,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,mysql,mongodb,git,docker" />
   </a>
 </p>
 
