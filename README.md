@@ -7,7 +7,7 @@
 ### 👨‍💻 Sobre mí
 Soy un **Desarrollador de Software** enfocado en la creación de soluciones eficientes y escalables. 
 
-- 🔭 **Proyecto Principal:** 
+- 🔭 **Proyecto Principal:** Desarrollando el **Legado Culinario Ecuatoriano**, un recurso pedagógico y adaptable para la difusión global de nuestra gastronomía.
 - 💬 **Hablemos sobre:** Arquitectura de software, desarrollo web y gatos. 🐱
 - ⚡ **Dato curioso:** Me apasiona la tecnología tanto como me gustan los gatos.
 
