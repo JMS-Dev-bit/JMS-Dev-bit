@@ -18,7 +18,7 @@ Basado en las necesidades técnicas de mis proyectos actuales:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,py,mysql,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,mysql,git,docker" />
   </a>
 </p>
 
